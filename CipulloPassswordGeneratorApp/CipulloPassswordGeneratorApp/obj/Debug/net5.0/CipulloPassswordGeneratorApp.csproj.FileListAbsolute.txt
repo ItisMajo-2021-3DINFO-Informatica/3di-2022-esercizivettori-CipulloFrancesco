@@ -1,0 +1,16 @@
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\bin\Debug\net5.0\CipulloPassswordGeneratorApp.exe
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\bin\Debug\net5.0\CipulloPassswordGeneratorApp.deps.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\bin\Debug\net5.0\CipulloPassswordGeneratorApp.runtimeconfig.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\bin\Debug\net5.0\CipulloPassswordGeneratorApp.runtimeconfig.dev.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\bin\Debug\net5.0\CipulloPassswordGeneratorApp.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\bin\Debug\net5.0\ref\CipulloPassswordGeneratorApp.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\bin\Debug\net5.0\CipulloPassswordGeneratorApp.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\ref\CipulloPassswordGeneratorApp.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloPassswordGeneratorApp\CipulloPassswordGeneratorApp\obj\Debug\net5.0\CipulloPassswordGeneratorApp.genruntimeconfig.cache
