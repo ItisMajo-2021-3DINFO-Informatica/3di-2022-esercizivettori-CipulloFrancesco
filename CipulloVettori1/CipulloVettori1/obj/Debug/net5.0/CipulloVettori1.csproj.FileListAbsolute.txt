@@ -1,0 +1,16 @@
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\bin\Debug\net5.0\CipulloVettori1.exe
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\bin\Debug\net5.0\CipulloVettori1.deps.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\bin\Debug\net5.0\CipulloVettori1.runtimeconfig.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\bin\Debug\net5.0\CipulloVettori1.runtimeconfig.dev.json
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\bin\Debug\net5.0\CipulloVettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\bin\Debug\net5.0\ref\CipulloVettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\bin\Debug\net5.0\CipulloVettori1.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.csproj.AssemblyReference.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.AssemblyInfoInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.AssemblyInfo.cs
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\ref\CipulloVettori1.dll
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.pdb
+C:\Users\Utente\Documents\GitHub\3di-2022-esercizivettori-CipulloFrancesco\CipulloVettori1\CipulloVettori1\obj\Debug\net5.0\CipulloVettori1.genruntimeconfig.cache
